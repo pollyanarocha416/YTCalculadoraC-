@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\YTCalculadoraC#\bin\Debug\net6.0\YTCalculadoraC#.exe
+C:\Users\Usuário\Desktop\YTCalculadoraC#\bin\Debug\net6.0\YTCalculadoraC#.deps.json
+C:\Users\Usuário\Desktop\YTCalculadoraC#\bin\Debug\net6.0\YTCalculadoraC#.runtimeconfig.json
+C:\Users\Usuário\Desktop\YTCalculadoraC#\bin\Debug\net6.0\YTCalculadoraC#.dll
+C:\Users\Usuário\Desktop\YTCalculadoraC#\bin\Debug\net6.0\YTCalculadoraC#.pdb
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.dll
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\refint\YTCalculadoraC#.dll
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.pdb
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\YTCalculadoraC#.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\YTCalculadoraC#\obj\Debug\net6.0\ref\YTCalculadoraC#.dll
